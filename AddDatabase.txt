@@ -1,0 +1,270 @@
+{
+    "321654": {
+        "name": "Murtaza Hassan",
+        "section": "Mechanical Engineering",
+        "starting_year": 2017,
+        "total_attendance": 10,
+        "standing": "G",
+        "year": 1,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "NA"
+    },
+    "123456": {
+        "name": "Diouf Daven",
+        "section": "Electronics Engineering",
+        "starting_year": 2020,
+        "total_attendance": 5,
+        "standing": "G",
+        "year": 1,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "09452274214"
+    },
+    "852741": {
+        "name": "Emily Blunt",
+        "section": "Civil Engineering",
+        "starting_year": 2019,
+        "total_attendance": 12,
+        "standing": "B",
+        "year": 2,
+        "last_attendance_time": "2022-12-11 00:54:34"
+    },
+    "963852": {
+        "name": "Elon Musk",
+        "section": "Physics",
+        "starting_year": 2020,
+        "total_attendance": 7,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34"
+    },
+    "102413": {
+        "name": "Tisha Mae Malayang",
+        "section": "Accountancy",
+        "starting_year": 2001,
+        "total_attendance": 0,
+        "standing": "g",
+        "year": 4,
+        "last_attendance_time": "na",
+        "Guardian Phone Number": "091022088"
+    },
+    "987654": {
+        "name": "Airesh Capada",
+        "section": "Electronics Engineering",
+        "starting_year": 2019,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 4,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0908423457"
+    },
+    "456789": {
+        "name": "Princess Danielle Fenola",
+        "section": "Electronics Engineering",
+        "starting_year": 2019,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 4,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "094922160"
+    },
+    "234567": {
+        "name": "Ramon Carlos Tan",
+        "section": "Electronics Engineering",
+        "starting_year": 2020,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 4,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "09592931067"
+    },
+    "765432": {
+        "name": "Marco Silla",
+        "section": "Electronics Engineering",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0911123456"
+    },
+    "890123": {
+        "name": "Atasha Bernadette Sablon",
+        "section": "Electronics Engineering",
+        "starting_year": 2020,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 4,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "09292224230"
+    },
+    "345678": {
+        "name": "Marc Anthony Narte",
+        "section": "Electronics Engineering",
+        "starting_year": 2020,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 2020,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "090909090929"
+    },
+    "876543": {
+        "name": "LJ Macadangdang",
+        "section": "Electronics Engineering",
+        "starting_year": 2019,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 4,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0925432209"
+    },
+    "543210": {
+        "name": "Louise Lopera",
+        "section": "Electronics Engineering",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "093542088"
+    },
+    "210987": {
+        "name": "Princess Em Guardamano",
+        "section": "Electronics Engineering",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0929292929"
+    },
+    "654321": {
+        "name": "Vincy Goto",
+        "section": "Electronics Engineering",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0919191919"
+    },
+    "432109": {
+        "name": "Fredric Mitch Biso",
+        "section": "Electronics Engineering",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0949494949"
+    },
+    "876789": {
+        "name": "Aira Almonicar",
+        "section": "Electronics Engineering",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0959595959"
+    },
+    "321098": {
+        "name": "Hannah Faith Laroscain",
+        "section": "2019",
+        "starting_year": 2019,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 4,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0949392959"
+    },
+    "987123": {
+        "name": "Sam Jaspe",
+        "section": "Faculty",
+        "starting_year": 2000,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 10,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0909090909"
+    },
+    "456321": {
+        "name": "Marian Mie Alimo-ot",
+        "section": "Faculty",
+        "starting_year": 2000,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 10,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "090909090909"
+    },
+    "654789": {
+        "name": "Romarie Jhoanna Eder",
+        "section": "Faculty",
+        "starting_year": 2000,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 10,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "090909090909"
+    },
+    "123890": {
+        "name": "Gelvie Lagos",
+        "section": "Faculty",
+        "starting_year": 2000,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 2000,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0909090909"
+    },
+    "876210": {
+        "name": "Babylou Nava",
+        "section": "Faculty",
+        "starting_year": 2000,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 10,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "090909090909"
+    },
+    "345876": {
+        "name": "Yesiel Sacramento",
+        "section": "Faculty",
+        "starting_year": 2000,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 10,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "09090909"
+    },
+    "890456": {
+        "name": "Juicy Valdueza",
+        "section": "Faculty",
+        "starting_year": 2000,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 10,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0909090909"
+    },
+    "567321": {
+        "name": "Nino Armell Salazar",
+        "section": "Electronics Engineering",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "09090909"
+    },
+    "109876": {
+        "name": "Kathryn Bernardo",
+        "section": "Mechanial Engineering",
+        "starting_year": 2023,
+        "total_attendance": 0,
+        "standing": "G",
+        "year": 1,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "0909090909"
+    }
+}

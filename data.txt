@@ -1,0 +1,40 @@
+{
+    "321654": {
+        "name": "Murtaza Hassan",
+        "section": "Mechanical Engineering",
+        "starting_year": 2017,
+        "total_attendance": 11,
+        "standing": "G",
+        "year": 1,
+        "last_attendance_time": "2022-12-11 00:54:34",
+        "Guardian Phone Number": "NA"
+    },
+    "123456": {
+        "name": "Pyongyang",
+        "section": "Civil Engineering",
+        "starting_year": 2001,
+        "total_attendance": 0,
+        "standing": "2",
+        "year": 4,
+        "last_attendance_time": "na",
+        "Guardian Phone Number": "na"
+    },
+    "852741": {
+        "name": "Emily Blunt",
+        "section": "Civil Engineering",
+        "starting_year": 2019,
+        "total_attendance": 12,
+        "standing": "B",
+        "year": 2,
+        "last_attendance_time": "2022-12-11 00:54:34"
+    },
+    "963852": {
+        "name": "Elon Musk",
+        "section": "Physics",
+        "starting_year": 2020,
+        "total_attendance": 7,
+        "standing": "G",
+        "year": 3,
+        "last_attendance_time": "2022-12-11 00:54:34"
+    }
+}
